@@ -1,8 +1,8 @@
 # 🏦 FinSync - Personal Finance Tracker  
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Issues](https://img.shields.io/github/issues/yourusername/FinSync.svg)](https://github.com/yourusername/FinSync/issues)  
-[![Stars](https://img.shields.io/github/stars/yourusername/FinSync.svg)](https://github.com/yourusername/FinSync/stargazers)  
+[![Issues](https://img.shields.io/github/issues/arunava-12/FinSync.svg)](https://github.com/arunava-12/FinSync/issues)  
+[![Stars](https://img.shields.io/github/stars/arunava-12/FinSync.svg)](https://github.com/arunava-12/FinSync/stargazers)  
 
 **FinSync** is a modern **personal finance tracker** that helps users manage their **income, expenses, and budgets** effectively. With intuitive visualizations and real-time tracking, it empowers users to take control of their financial well-being.  
 
